@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  english_name: MyString
+  chinese_name: MyString
+  logo: MyString
+  rank: 1
+  country: MyString
+  city: MyString
+  tuition_fees: MyString
+  introduction: MyText
+  world_working: MyString
+  national_ranking: MyString
+  cost_of_living: MyString
+  link: MyString
+  address: MyText
+  acronym: MyString
+
+two:
+  english_name: MyString
+  chinese_name: MyString
+  logo: MyString
+  rank: 1
+  country: MyString
+  city: MyString
+  tuition_fees: MyString
+  introduction: MyText
+  world_working: MyString
+  national_ranking: MyString
+  cost_of_living: MyString
+  link: MyString
+  address: MyText
+  acronym: MyString
